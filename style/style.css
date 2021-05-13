@@ -136,9 +136,9 @@ body,html{
       color: white;
       color: white;
       font-size: 2rem;
-      position: relative;
-      margin-top:12.2rem;
-      margin-right: 1rem;
+      position: fixed;
+      bottom: 20px;
+      right: 10px;
       border: none;
     }
     .navbar-nav.justify-content-end li a {
